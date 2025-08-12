@@ -7,7 +7,7 @@ Robotics Software Engineer with 5+ years of industry and research experience in 
 ## About Me
 - Master of Science in Intelligent Robotic Systems - Kennesaw State University
 - Master of Science in Computer Science - Georgia Southwestern State University
-- Bachelor's degree in Software Development from Brigham Young University - Idaho
+- Bachelor of Science in Software Development- Brigham Young University - Idaho
 
 ## Work Experience
 - Robotics Research Engineer  - Kennesaw State University
