@@ -10,7 +10,7 @@ Robotics Software Engineer with 5+ years of industry and research experience in 
 - Bachelor's degree in Software Development from Brigham Young University - Idaho
 
 ## Work Experience
-- Graduate Research Engineer  - Kennesaw State University
+- Robotics Research Engineer  - Kennesaw State University
 - Software Engineer - Fusus by Axon
 - Full-Stack Developer - Natterbase
 
