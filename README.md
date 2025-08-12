@@ -2,15 +2,18 @@
 
 Hello, GitHub! 👋
 
-I'm David A., a Full-Stack Software Developer passionate about leveraging technical acumen to create impactful solutions that drive business growth and success. Welcome to my GitHub profile!
+Robotics Software Engineer with 5+ years of industry and research experience in software engineering and robotics, specializing in ROS-based control systems, machine learning pipelines, and computer vision for autonomous platforms. Proven ability to transition solutions from simulation to deployment.. Welcome to my GitHub profile!
 
 ## About Me
+- Master of Science in Intelligent Robotic Systems - Kennesaw State University
+- Master of Science in Computer Science - Georgia Southwestern State University
+- Bachelor's degree in Software Development from Brigham Young University - Idaho
 
-- I have a bachelor's degree in Software Development from Brigham Young University - Idaho
-- I'm currently learning advanced concepts in computer science as I prepare for my master's in Computer Science at Georgia Southwestern State University.
-- In my previous roles, I have consistently demonstrated my ability to work effectively in cross-functional teams, collaborating with designers, product managers, and other stakeholders to deliver exceptional products.
-- My goals are to make meaningful contributions to any organization by continuously expanding my knowledge and staying up to date with the latest technologies.
-- Ask me about software development, customer support, and innovative tech solutions.
+## Work Experience
+- Graduate Research Engineer  - Kennesaw State University
+- Software Engineer - Fusus by Axon
+- Full-Stack Developer - Natterbase
+
 
 ## Technologies and Tools
 
