@@ -2,7 +2,7 @@
 
 Hello, GitHub! 👋
 
-Robotics Software Engineer with 5+ years of industry and research experience in software engineering and robotics, specializing in ROS-based control systems, machine learning pipelines, and computer vision for autonomous platforms. Proven ability to transition solutions from simulation to deployment.. Welcome to my GitHub profile!
+Software Engineer with 5+ years of industry and research experience in software engineering and robotics, specializing in ROS-based control systems, machine learning pipelines, and computer vision for autonomous platforms. Proven ability to transition solutions from simulation to deployment.. Welcome to my GitHub profile!
 
 ## About Me
 - MSc, Intelligent Robotic Systems - Kennesaw State University
@@ -10,7 +10,7 @@ Robotics Software Engineer with 5+ years of industry and research experience in 
 - BSc, Software Development- Brigham Young University - Idaho
 
 ## Work Experience
-- Robotics Software Engineer
+- Software Engineer
 - Software Engineer - Fusus by Axon
 - Full-Stack Developer - Natterbase
 
