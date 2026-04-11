@@ -2,7 +2,7 @@
 
 Hello, GitHub! 👋
 
-Software Engineer with 5+ years of industry and research experience in software engineering and robotics, specializing in ROS-based control systems, machine learning pipelines, and computer vision for autonomous platforms. Proven ability to transition solutions from simulation to deployment.. Welcome to my GitHub profile!
+Software Engineer with 5+ years of industry and research experience in software engineering.
 
 ## About Me
 
